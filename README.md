@@ -63,7 +63,11 @@
 </a>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/Discord-LeoAntoniuk-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-taldoleleo-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Instagram-leoantoniuk_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
