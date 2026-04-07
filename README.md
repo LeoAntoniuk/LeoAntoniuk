@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Leo
+# 👋 Olá, eu sou o Leonardo Antoniuk
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Java;Backend+Developer;Sempre+aprendendo+coisas+novas..." />
 
@@ -29,7 +29,7 @@
 
 ## 🔥 Projetos em destaque
 
-* ---
+* -
 
 ---
 
@@ -37,8 +37,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoAntoniuk&show_icons=true&theme=tokyonight&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAntoniuk&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeoAntoniuk&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeoAntoniuk&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -59,11 +59,11 @@
 <div align="center">
 
 <a href="https://github.com/LeoAntoniuk">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-LeoAntoniuk-000?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/493432585553444864?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-LeoAntoniuk-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </div>
