@@ -66,7 +66,7 @@
   <img src="https://img.shields.io/badge/Discord-taldoleleo-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://instagram.com](https://www.instagram.com/leoantoniuk_?utm_source=qr&igsh=MXY5YTd6YnhocWxkNA%3D%3D">
   <img src="https://img.shields.io/badge/Instagram-leoantoniuk_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
