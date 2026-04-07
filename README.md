@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou o Leo
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Java;Especialista+em+Plugins+Minecraft;Backend+Developer;Sempre+aprendendo+coisas+novas..." />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Java;Backend+Developer;Sempre+aprendendo+coisas+novas..." />
 
 </div>
 
@@ -10,9 +10,9 @@
 
 ## 🚀 Sobre mim
 
-💻 Desenvolvedor focado em **Java e Minecraft**
-⚡ Experiência com sistemas **multi-servidor e alta performance**
-🔗 Trabalhando com **MySQL, Redis, Velocity e Spigot**
+💻 Desenvolvedor **Java**
+⚡ Experiência com sistemas **alta performance**
+🔗 Trabalhando com **MySQL, SQLite e Redis**
 🎯 Sempre buscando criar sistemas escaláveis e otimizados
 
 ---
@@ -58,12 +58,12 @@
 
 <div align="center">
 
-<a href="https://github.com/SEU_USER">
+<a href="https://github.com/LeoAntoniuk">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/taldoleleo?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/493432585553444864?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </div>
