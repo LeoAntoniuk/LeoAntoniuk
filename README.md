@@ -10,6 +10,7 @@
 
 ## 🚀 Sobre mim
 
+:books: Estudante de **Engenharia de Software** - Pontifícia Universidade Católica do Rio Grande do Sul
 💻 Desenvolvedor **Java**
 ⚡ Experiência com sistemas **alta performance**
 🔗 Trabalhando com **MySQL, SQLite e Redis**
