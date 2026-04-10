@@ -1,24 +1,24 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Leonardo Antoniuk
+# 👋 Hi, i'm Leonardo Antoniuk
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Java;Backend+Developer;Sempre+aprendendo+coisas+novas..." />
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=28&center=true&vCenter=true&width=1000&lines=Java+Developer;Backend+Developer;Always+learning+new+things..." />
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About me
 
-:books: Estudante de **Engenharia de Software** - Pontifícia Universidade Católica do Rio Grande do Sul
-💻 Desenvolvedor **Java**
-⚡ Experiência com sistemas **alta performance**
-🔗 Trabalhando com **MySQL, SQLite e Redis**
-🎯 Sempre buscando criar sistemas escaláveis e otimizados
+:books: Studying **Software Engineer** - Pontifícia Universidade Católica do Rio Grande do Sul
+💻 **Java** Development
+⚡ **High performance** experience
+🔗 Working with **MySQL, SQLite e Redis**
+🎯 Always striving to build scalable and optimized systems
 
 ---
 
-## :briefcase: Organizações
+## :briefcase: Organizations
 
 <div align="center">
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 🧠 Tecnologias
+## 🧠 Technologies
 
 <div align="center">
 
@@ -40,13 +40,13 @@
 
 ---
 
-## 🔥 Projetos em destaque
+## 🔥 Featured projects
 
 * -
 
 ---
 
-## 📊 Estatísticas
+## 📊 Stats
 
 <div align="center">
 
@@ -57,7 +57,7 @@
 
 ---
 
-## ⚡ Atividade recente
+## ⚡ Recent activity
 
 <div align="center">
 
@@ -67,7 +67,7 @@
 
 ---
 
-## 🌐 Contato
+## 🌐 Contact
 
 <div align="center">
 
