@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou o Leonardo Antoniuk
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Java;Backend+Developer;Sempre+aprendendo+coisas+novas..." />
+<img src="https://readme-typing-svg.herokuapp.com?color=6BFF00&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Java;Backend+Developer;Sempre+aprendendo+coisas+novas..." />
 
 </div>
 
