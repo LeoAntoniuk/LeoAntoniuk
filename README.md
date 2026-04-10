@@ -18,6 +18,18 @@
 
 ---
 
+## :briefcase: Organizações
+
+<div align="center">
+
+<a href="https://github.com/EldoriaRP">
+  <img src="https://github.com/EldoriaRP.png" />
+</a>
+
+</div>
+
+---
+
 ## 🧠 Tecnologias
 
 <div align="center">
