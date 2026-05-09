@@ -22,9 +22,7 @@
 
 <div align="center">
 
-<a href="https://github.com/EldoriaRP">
-  <img src="https://github.com/EldoriaRP.png" width="100"/>
-</a>
+* -
 
 </div>
 
