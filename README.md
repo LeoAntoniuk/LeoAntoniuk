@@ -2,7 +2,7 @@
 
 # 👋 Hi, i'm Leonardo Antoniuk
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=28&center=true&vCenter=true&width=1000&lines=Java+Developer;Backend+Developer;Always+learning+new+things..." />
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=28&center=true&vCenter=true&width=1000&lines=Java+Developer;Javascript+Developer;Fullstack+Developer;Always+learning+new+things..." />
 
 </div>
 
@@ -11,7 +11,7 @@
 ## 🚀 About me
 
 :books: Studying **Software Engineer** - Pontifícia Universidade Católica do Rio Grande do Sul
-💻 **Java** Development
+💻 **Java & Javascript** Development
 ⚡ **High performance** experience
 🔗 Working with **MySQL, SQLite e Redis**
 🎯 Always striving to build scalable and optimized systems
