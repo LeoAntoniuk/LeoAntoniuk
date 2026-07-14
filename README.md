@@ -40,7 +40,9 @@
 
 ## 🔥 Featured projects
 
-* -
+* <a href="https://github.com/LeoAntoniuk/TF-Fundamentos-de-Programacao">
+    Sistema de Gerenciamento Acadêmico :books:
+  <a/>
 
 ---
 
