@@ -23,7 +23,7 @@
 <div align="center">
 
 <a href="https://github.com/EldoriaRP">
-  <img src="https://img.shields.io/badge/EldoriaRP?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-EldoriaRP-000?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
