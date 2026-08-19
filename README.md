@@ -74,6 +74,10 @@
   <img src="https://img.shields.io/badge/Instagram-leoantoniuk_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/in/leonardo-ullmann-duarte-antoniuk-05313a429/">
+  <img src="https://img.shields.io/badge/Linkedin-Leonardo Antoniuk-5865F2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
 
 ---
