@@ -21,7 +21,7 @@ public class Leonardo {
 
     String name     = "Leonardo Antoniuk";
     String degree   = "Software Engineering @ PUCRS";
-    String[] stack  = {"Java", "JavaScript", "Node.js", "React", "TypeScript"};
+    String[] stack  = {"Java", "JavaScript", "Node.js", "React", "TypeScript", "SpringBoot", "Python"};
     String[] data   = {"MySQL", "SQLite", "Redis"};
     String focus    = "High performance & scalable systems";
     String motto    = "Code. Build. Break. Learn. Repeat.";
@@ -55,11 +55,11 @@ public class Leonardo {
 
 **Languages & Frontend**
 
-<img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,react&perspective=2" />
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,react,python&perspective=2" />
 
 **Backend, Data & Tools**
 
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,sqlite,redis,kubernetes,git,github&perspective=2" />
+<img src="https://skillicons.dev/icons?i=nodejs,spring,mysql,sqlite,redis,kubernetes,git,github&perspective=2" />
 
 </div>
 
